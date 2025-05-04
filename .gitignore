@@ -202,3 +202,13 @@ shellcheck*/
 
 # Ingore moe/marlin_moe gen code
 csrc/moe/marlin_moe_wna16/kernel_*
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
